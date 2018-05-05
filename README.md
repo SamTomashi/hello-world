@@ -1,2 +1,3 @@
 # hello-world
 trying GitHub
+Sam Tomashi is ...
